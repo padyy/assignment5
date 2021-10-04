@@ -2,7 +2,7 @@
 Built of a homepage of an online travel agency, using ajax calls to get dynamically data
 
 # Info
-/ Title: Assignment5 - Inclass
+Title: Assignment5 - Inclass
 / Last name : Pantelakis
 / First Name: Ioannis
 / Advisors: Galanopoulou Rafaila 
@@ -14,7 +14,10 @@ Open the index.html
 	 The package includes 5 modules: all.css , index.html, jquery-3.1.1.min.js, script.js and style.css
 
 all.css, style.css are the css code for the site.
+
 index.html is the main file of the package. You can see the site by open it. Feel free to try the functionality.
+
 jquery-3.1.1.min.js is for the import of jquery.
+
 script.js is for the the javascript code of package.
 	 
